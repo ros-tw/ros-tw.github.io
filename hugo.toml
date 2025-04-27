@@ -20,7 +20,7 @@ style = "github-dark"
   info = "Robot Operating System (ROS) Taiwan Group"
   description = "Robot Operating System (ROS) Taiwan Group"
   keywords = "ros,robotics,taiwan"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/avatar.png"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
