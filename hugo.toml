@@ -49,7 +49,7 @@ style = "github-dark"
   name = "Discord"
   icon = "fa-brands fa-discord fa-2x"
   weight = 1
-  url = "#"
+  url = "https://discord.gg/m8F8Vt6v3e"
 [[params.social]]
   name = "Facebook"
   icon = "fa-brands fa-facebook fa-2x"
